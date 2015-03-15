@@ -1,0 +1,11 @@
+﻿Build started 17-02-2015 12.16.36 AM.
+     1>Project "G:\Finger scanner\Test 4\Test4\Test3\Test3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         S:\Microsoft VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>g:\finger scanner\test 4\test4\test3\source.cpp(1): fatal error C1083: Cannot open include file: 'tesseract\baseapi.h': No such file or directory
+     1>Done Building Project "G:\Finger scanner\Test 4\Test4\Test3\Test3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.49
