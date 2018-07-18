@@ -2,6 +2,14 @@
 Humans have naturally tendency to point fingers at various objects. Why not use this ability to get information about our world?
 Here is a project called Finger Tip Reader which helps visually impaired people to read any kind of text without the need to 
 learn braille. 
+
+The project was done in collaboration with the following people to satisfy credit requirements for course EC1306 Electronics for Service of Society at VJTI.
+
+1. Chinmay Pinglay
+2. Varun Zope
+3. Vishal Chaudhari
+4. Abhishek Sawarkar
+
 A camera mounted on the finger inputs text and pre-processes the image. An image to text engine called Tesseract OCR converts
 the image into text. 
 Another engine called microsoft SAPI converts this text into speech output. Hence the camera input is output into speech format.
