@@ -5,10 +5,11 @@ learn braille.
 
 The project was done in collaboration with the following people to satisfy credit requirements for course EC1306 Electronics for Service of Society at VJTI.
 
-1. Chinmay Pinglay
-2. Varun Zope
-3. Vishal Chaudhari
-4. Abhishek Sawarkar
+1. Vishal Medida 
+2. Chinmay Pinglay
+3. Varun Zope
+4. Vishal Chaudhari
+5. Abhishek Sawarkar
 
 A camera mounted on the finger inputs text and pre-processes the image. An image to text engine called Tesseract OCR converts
 the image into text. 
